@@ -1,2 +1,2 @@
 # Text-Based-Game
-Maze Game
+Maize Game
