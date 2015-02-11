@@ -1,2 +1,2 @@
 # Text-Based-Game
-Maize Game
+Maize Walker
